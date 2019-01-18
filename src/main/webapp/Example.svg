@@ -1,0 +1,110 @@
+<?xml-stylesheet type="text/css" href="css/image.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="372" height="354" fill="none" viewBox="0 0 372 354">
+
+    <style>
+        <!--rect { fill: #96A3B7; }-->
+        rect:hover {
+            fill: #FF00FF;
+            }
+    </style>
+
+    <g id="Example" class="op">
+        <g id="Row_1">
+            <rect id="hall01_row01_seat10" width="20" height="20" x="302" y="82" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row01_seat09" width="20" height="20" x="274" y="82" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row01_seat08" width="20" height="20" x="246" y="82" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row01_seat07" width="20" height="20" x="218" y="82" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row01_seat06" width="20" height="20" x="190" y="82" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row01_seat05" width="20" height="20" x="162" y="82" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row01_seat04" width="20" height="20" x="134" y="82" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row01_seat03" width="20" height="20" x="106" y="82" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row01_seat02" width="20" height="20" x="78" y="82" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row01_seat01" width="20" height="20" x="50" y="82" fill="#96A3B7" rx="4"/>
+        </g>
+        <g id="Row_2">
+            <rect id="hall01_row02_seat10" width="20" height="20" x="302" y="110" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row02_seat09" width="20" height="20" x="274" y="110" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row02_seat08" width="20" height="20" x="246" y="110" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row02_seat07" width="20" height="20" x="218" y="110" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row02_seat06" width="20" height="20" x="190" y="110" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row02_seat05" width="20" height="20" x="162" y="110" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row02_seat04" width="20" height="20" x="134" y="110" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row02_seat03" width="20" height="20" x="106" y="110" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row02_seat02" width="20" height="20" x="78" y="110" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row02_seat01" width="20" height="20" x="50" y="110" fill="#96A3B7" rx="4"/>
+        </g>
+        <g id="Row_3">
+            <rect id="hall01_row03_seat10" width="20" height="20" x="302" y="138" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row03_seat09" width="20" height="20" x="274" y="138" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row03_seat08" width="20" height="20" x="246" y="138" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row03_seat07" width="20" height="20" x="218" y="138" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row03_seat06" width="20" height="20" x="190" y="138" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row03_seat05" width="20" height="20" x="162" y="138" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row03_seat04" width="20" height="20" x="134" y="138" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row03_seat03" width="20" height="20" x="106" y="138" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row03_seat02" width="20" height="20" x="78" y="138" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row03_seat01" width="20" height="20" x="50" y="138" fill="#96A3B7" rx="4"/>
+        </g>
+        <g id="Row_4">
+            <rect id="hall01_row04_seat10" width="20" height="20" x="302" y="166" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row04_seat09" width="20" height="20" x="274" y="166" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row04_seat08" width="20" height="20" x="246" y="166" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row04_seat07" width="20" height="20" x="218" y="166" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row04_seat06" width="20" height="20" x="190" y="166" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row04_seat05" width="20" height="20" x="162" y="166" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row04_seat04" width="20" height="20" x="134" y="166" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row04_seat03" width="20" height="20" x="106" y="166" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row04_seat02" width="20" height="20" x="78" y="166" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row04_seat01" width="20" height="20" x="50" y="166" fill="#96A3B7" rx="4"/>
+        </g>
+        <g id="Row_5">
+            <rect id="hall01_row05_seat10" width="20" height="20" x="302" y="194" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row05_seat09" width="20" height="20" x="274" y="194" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row05_seat08" width="20" height="20" x="246" y="194" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row05_seat07" width="20" height="20" x="218" y="194" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row05_seat06" width="20" height="20" x="190" y="194" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row05_seat05" width="20" height="20" x="162" y="194" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row05_seat04" width="20" height="20" x="134" y="194" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row05_seat03" width="20" height="20" x="106" y="194" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row05_seat02" width="20" height="20" x="78" y="194" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row05_seat01" width="20" height="20" x="50" y="194" fill="#96A3B7" rx="4"/>
+        </g>
+        <g id="Row_6">
+            <rect id="hall01_row06_seat10" width="20" height="20" x="302" y="222" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row06_seat09" width="20" height="20" x="274" y="222" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row06_seat08" width="20" height="20" x="246" y="222" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row06_seat07" width="20" height="20" x="218" y="222" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row06_seat06" width="20" height="20" x="190" y="222" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row06_seat05" width="20" height="20" x="162" y="222" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row06_seat04" width="20" height="20" x="134" y="222" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row06_seat03" width="20" height="20" x="106" y="222" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row06_seat02" width="20" height="20" x="78" y="222" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row06_seat01" width="20" height="20" x="50" y="222" fill="#96A3B7" rx="4"/>
+        </g>
+        <g id="Row_7">
+            <rect id="hall01_row07_seat10" width="20" height="20" x="302" y="250" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row07_seat09" width="20" height="20" x="274" y="250" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row07_seat08" width="20" height="20" x="246" y="250" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row07_seat07" width="20" height="20" x="218" y="250" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row07_seat06" width="20" height="20" x="190" y="250" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row07_seat05" width="20" height="20" x="162" y="250" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row07_seat04" width="20" height="20" x="134" y="250" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row07_seat03" width="20" height="20" x="106" y="250" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row07_seat02" width="20" height="20" x="78" y="250" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row07_seat01" width="20" height="20" x="50" y="250" fill="#96A3B7" rx="4"/>
+        </g>
+        <g id="Row_8">
+            <rect id="hall01_row08_seat10" width="20" height="20" x="302" y="278" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row08_seat09" width="20" height="20" x="274" y="278" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row08_seat08" width="20" height="20" x="246" y="278" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row08_seat07" width="20" height="20" x="218" y="278" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row08_seat06" width="20" height="20" x="190" y="278" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row08_seat05" width="20" height="20" x="162" y="278" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row08_seat04" width="20" height="20" x="134" y="278" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row08_seat03" width="20" height="20" x="106" y="278" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row08_seat02" width="20" height="20" x="78" y="278" fill="#96A3B7" rx="4"/>
+            <rect id="hall01_row08_seat01" width="20" height="20" x="50" y="278" fill="#96A3B7" rx="4"/>
+        </g>
+        <path id="Screen" fill="#E7E9ED" d="M50.2145 42.9767C50.2142 42.9768 50.2141 42.9768 49.9999 42C49.7857 41.0232 49.7861 41.0231 49.7867 41.023L49.831 41.0133L49.9622 40.985C50.0781 40.9601 50.2505 40.9233 50.4782 40.8754C50.9337 40.7796 51.6101 40.6394 52.4971 40.461C54.271 40.1044 56.8867 39.5953 60.2593 38.9847C67.0045 37.7636 76.778 36.1361 88.9004 34.5089C113.143 31.2546 146.789 28 184.4 28C222.01 28 256.455 31.2545 281.495 34.5083C294.017 36.1354 304.189 37.7626 311.233 38.9834C314.755 39.5939 317.495 40.1028 319.356 40.4593C320.287 40.6375 320.997 40.7777 321.476 40.8734C321.715 40.9213 321.897 40.958 322.018 40.9829L322.156 41.0112L322.191 41.0184L322.203 41.0208C322.203 41.0209 322.204 41.021 322 42C321.796 42.979 321.796 42.979 321.796 42.9789L321.753 42.97L321.618 42.9425C321.499 42.9182 321.32 42.8819 321.084 42.8346C320.61 42.7399 319.905 42.6008 318.98 42.4235C317.13 42.0691 314.401 41.5624 310.892 40.9541C303.872 39.7374 293.727 38.1146 281.238 36.4917C256.256 33.2455 221.9 30 184.4 30C146.9 30 113.346 33.2454 89.1664 36.4911C77.0776 38.1139 67.3344 39.7364 60.6156 40.9528C57.2563 41.5609 54.6532 42.0675 52.8913 42.4218C52.0104 42.5989 51.3397 42.738 50.89 42.8326C50.6651 42.8799 50.4955 42.9161 50.3824 42.9404L50.2553 42.9678L50.2145 42.9767Z"/>
+    </g>
+</svg>
